@@ -1,4 +1,5 @@
 # 这是一个SpringBoot＋Mybatis＋Vue＋elementplus的开发模板
+由于现在在进行毕业设计开发，所以更新较慢，之后会更新完整
 ## 后端
 ![892df81c8c54f2039c68688bb97bdcf](https://github.com/user-attachments/assets/b0ab9f15-d2e9-439e-98d3-2aebce118f4e)
 现仅进行管理平台后端可共用部分开发，之后会完善app可共用部分开发
